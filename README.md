@@ -1,7 +1,7 @@
 # BB4-MOSFETs
 ### All about MOSFETs from an Arduino Perspective
 
-## See YouTube video 
+## See YouTube video https://youtu.be/5FHLWGZ_FUQ
 
 ### https://www.pcbway.com 
 First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 20-pieces just $30.
