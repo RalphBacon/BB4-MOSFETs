@@ -3,8 +3,8 @@
 
 ## See YouTube video https://youtu.be/5FHLWGZ_FUQ
 
-### https://www.pcbway.com 
-First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 20-pieces just $30.
+### PCBWay 6th Anniversary Carnival Coming Soon! With Larger Coupons and Gift Giveaways: https://www.pcbway.com
+### https://www.pcbway.com
 
 The MOSFET transistor has all but replaced BJTs (Bipolar Junction Transistors) in Arduino-style circuits which require a decent switching device to control motors, relays, LEDs and everything else.
 
