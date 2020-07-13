@@ -11,17 +11,6 @@ Not only are they cheap to buy, they are also easy to use - but just watch the s
 
 Let's have a look at how they fit into the Arduino World in this video.
 
-00:00 Welcome to Bacon Bytes  
-00:13 Intro: what is a MOSFET  
-01:06 PCBWay SMT PCBs - ideal for beginners  
-02:55 Resume MOSFET video  
-03:13 All about the Si4599 Dual MOSFET module - great for experiments  
-04:13 Whiteboard All About MOSFETs. First, N-Channel.  
-09:30 P-Channel MOSFETs  
-10:46 Reverse Polarity Protection using a P-Channel MOSFET  
-13:02 Keyword Summary (for Datasheet interpretation)  
-15:44 Summary  
-
 ### PRODUCTS
 
 10pcs Si4599 dual N and P Channel 40V MOSFET Expansion Board Module (about $1 each + shipping)  
