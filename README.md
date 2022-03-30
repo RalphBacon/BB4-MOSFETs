@@ -1,9 +1,7 @@
-# BB4-MOSFETs
+# Bacon Bytes #4 - MOSFETs
 ### All about MOSFETs from an Arduino Perspective
 
 ## See YouTube video https://youtu.be/5FHLWGZ_FUQ
-
-### **PCBWay 6th Anniversary** Carnival Coming Soon! With Larger Coupons and Gift Giveaways: https://www.pcbway.com
 
 The MOSFET transistor has all but replaced BJTs (Bipolar Junction Transistors) in Arduino-style circuits which require a decent switching device to control motors, relays, LEDs and everything else.
 
